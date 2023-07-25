@@ -21,7 +21,7 @@ dependencies:
     specifier: 18.3.0-canary-7118f5dd7-20230705
     version: 18.3.0-canary-7118f5dd7-20230705(react-dom@18.3.0-canary-7118f5dd7-20230705)(react@18.3.0-canary-7118f5dd7-20230705)(webpack@5.88.0)
   waku:
-    specifier: 0.13.0
+    specifier: https://pkg.csb.dev/dai-shi/waku/commit/160238f1/waku
     version: 0.13.0(express@4.18.2)(react-server-dom-webpack@18.3.0-canary-7118f5dd7-20230705)(react@18.3.0-canary-7118f5dd7-20230705)
 
 devDependencies:
